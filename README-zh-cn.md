@@ -304,6 +304,9 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 
 没什么问题，推送到自己的博客仓库即可。
 
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
 ## 捐助 donate
 
 您也可以捐助我喝杯咖啡！感谢！
